@@ -15,4 +15,11 @@
     <managerType typeId="9c6d6d7d-2172-4dd5-a38e-b7036aef5305" valueTypeId="94cf31ce-cb8c-47e9-bd6f-8c9e8193947c">
     </managerType>
   </producedTypes>
+  <attributes uuid="8bfe1d96-bb6c-428b-b26a-a0958b6ca095" name="Комментарий" fullTextSearch="Use">
+    <synonym key="en" value="Комментарий"/>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+  </attributes>
 </mdclass:Catalog>
